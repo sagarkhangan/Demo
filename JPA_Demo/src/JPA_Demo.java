@@ -4,8 +4,8 @@ import javax.persistence.EntityManagerFactory;
 public class JPA_Demo {
 public static void main(String args[]){
 Employee p = new Employee();
-p.setName("Hendro Steven");
-p.setId("Salatiga, Indonesia");
+p.setName("XYZXYZXYZ");
+p.setId("ABC!@#ABC123");
 p.setPh(62813909);
 
 JPA_Demo demo = new JPA_Demo();
